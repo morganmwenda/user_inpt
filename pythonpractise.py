@@ -15,4 +15,5 @@ b=5
 a=int(a)
 c=a+b
 print("sum:",c)
-
+print(["w" in classes])
+print("hello world",end='bye')
